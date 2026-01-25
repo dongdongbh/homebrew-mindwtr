@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v0.6.0/Mindwtr_0.6.0_x64-setup.exe#/dl.7z",
-      "hash": "8873c301a6fed25c920eba754334fcc64fdd4efc63a53ee19b91aa1e816f11c2"
+      "hash": "49c51abe9cbad0740efd68fbe0f95e6aaaef78c1c71fd225e4c33a1d0bcb7c05"
     }
   },
   "bin": "Mindwtr.exe",

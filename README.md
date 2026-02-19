@@ -10,9 +10,8 @@ This repo hosts package manager definitions for Mindwtr.
 ## Install
 
 ### Homebrew (macOS)
-
+Homebrew cask moved to official homebrew/cask repository, you can install it directly:
 ```bash
-brew tap dongdongbh/mindwtr
 brew install --cask mindwtr
 ```
 

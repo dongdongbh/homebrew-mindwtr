@@ -1,12 +1,12 @@
 {
-  "version": "0.8.6",
+  "version": "0.8.7",
   "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
   "homepage": "https://github.com/dongdongbh/Mindwtr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.6/mindwtr_0.8.6_x64-setup.exe#/dl.7z",
-      "hash": "ec9797fc159117171f2d88e2ae9e8db6f324ea2a58b6257bd72ac5138d71261f"
+      "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.7/mindwtr_0.8.7_x64-setup.exe#/dl.7z",
+      "hash": "1f0f70a0e9c21dda0c2a0b7eae0b4228a320af011cd748740b75b61d12e6864b"
     }
   },
   "bin": "Mindwtr.exe",
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.6/mindwtr_0.8.6_x64-setup.exe#/dl.7z"
+        "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v0.8.7/mindwtr_0.8.7_x64-setup.exe#/dl.7z"
       }
     }
   }

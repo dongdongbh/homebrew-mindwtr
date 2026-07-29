@@ -2,8 +2,6 @@
 
 This repo hosts package manager definitions for Mindwtr.
 
-## Structure
-
 - `bucket/mindwtr.json` - Scoop manifest (Windows)
 
 ## Install

@@ -1,7 +1,7 @@
 {
   "version": "1.1.5",
-  "description": "A complete Getting Things Done (GTD) productivity system for desktop and mobile.",
-  "homepage": "https://github.com/dongdongbh/Mindwtr",
+  "description": "Get every task and idea out of your head, then see the next thing to do. Free, open-source Getting Things Done (GTD) app. No account needed.",
+  "homepage": "https://mindwtr.app",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
@@ -16,11 +16,13 @@
       "Mindwtr"
     ]
   ],
-  "checkver": "github",
+  "checkver": {
+    "github": "https://github.com/dongdongbh/Mindwtr"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v1.1.5/mindwtr_1.1.5_x64-setup.exe#/dl.7z"
+        "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v$version/mindwtr_$version_x64-setup.exe#/dl.7z"
       }
     }
   }

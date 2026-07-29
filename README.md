@@ -4,7 +4,6 @@ This repo hosts package manager definitions for Mindwtr.
 
 ## Structure
 
-- `Casks/mindwtr.rb` - Homebrew Cask (macOS)
 - `bucket/mindwtr.json` - Scoop manifest (Windows)
 
 ## Install

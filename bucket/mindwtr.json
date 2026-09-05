@@ -1,12 +1,12 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Get every task and idea out of your head, then see the next thing to do. Free, open-source Getting Things Done (GTD) app. No account needed.",
   "homepage": "https://mindwtr.app",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v1.2.7/mindwtr_1.2.7_x64-setup.exe#/dl.7z",
-      "hash": "d944d9a08d297b96fe7b1ad66d36d00e7687412143e4a49c1247c4d9400bd2e2"
+      "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v1.2.8/mindwtr_1.2.8_x64-setup.exe#/dl.7z",
+      "hash": "29e6376705b5c7f270e79465074507701b0a1ba70814dbf715127f14ca66c52d"
     }
   },
   "bin": "Mindwtr.exe",
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v1.2.7/mindwtr_1.2.7_x64-setup.exe#/dl.7z"
+        "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v1.2.8/mindwtr_1.2.8_x64-setup.exe#/dl.7z"
       }
     }
   }
